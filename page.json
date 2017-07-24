@@ -1,0 +1,12 @@
+{
+    "Cirrus": ["http://www.clouds-online.com/cloud_atlas/cirrus/cirrus.htm"],
+    "Cirrostratus": ["http://www.clouds-online.com/cloud_atlas/cirrostratus/cirrostratus.htm"],
+    "Cirrocumulus": ["http://www.clouds-online.com/cloud_atlas/cirrocumulus/cirrocumulus.htm"],
+    "Altocumulus": ["http://www.clouds-online.com/cloud_atlas/altocumulus/altocumulus.htm"],
+    "Altostratus": ["http://www.clouds-online.com/cloud_atlas/altostratus/altostratus.htm"],
+    "Stratocumulus": ["http://www.clouds-online.com/cloud_atlas/stratocumulus/stratocumulus.htm"],
+    "Stratus": ["http://www.clouds-online.com/cloud_atlas/stratus/stratus.htm"],
+    "Nimbostratus": ["http://www.clouds-online.com/cloud_atlas/nimbostratus/nimbostratus.htm"],
+    "Cumulus": ["http://www.clouds-online.com/cloud_atlas/cumulus/cumulus.htm"],
+    "Cumulonimbus": ["http://www.clouds-online.com/cloud_atlas/cumulonimbus/cumulonimbus.htm"]
+}
