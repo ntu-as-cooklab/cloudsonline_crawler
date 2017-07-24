@@ -35,7 +35,7 @@ for cloudType in pageLink:
     except Exception:
         print("Error while making links.")
 
-    print("Start to crawler photos.")
+    print("Start to crawl photos in " + cloudType)
     for link in pageLink[cloudType]:
         try:
             print("Dealing " + link)
